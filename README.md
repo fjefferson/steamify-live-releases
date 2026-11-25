@@ -154,4 +154,4 @@ Steamify Live is free and independently maintained by **Jefferson Oliveira ([@Je
 
 - 🌐 Website: <https://live.steamify.com.br>
 - 📦 Releases: <https://github.com/fjefferson/steamify-live-releases/releases>
-- ✉️ Contact: contato@steamify.com.br
+- ✉️ Contact: oliveirjefferson@gmail.com
